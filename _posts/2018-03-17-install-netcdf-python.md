@@ -35,7 +35,9 @@ cd ..
 
 ### netcdf4-python
 
-I typically try to use `pip` to install Python libraries if I can. The basic NetCDF module for Python is called [`netcdf4-python`](http://github.com/unidata/netcdf4-python), but it can be installed using the name below.
+~~I typically try to use `pip` to install Python libraries if I can.~~ Use `pip` if you need to, but I am using conda and conda-forge as much as possible now, in fact by using conda, the above compilation steps are usually not necessary as far as I know. See below. 
+
+The basic NetCDF module for Python is called [`netcdf4-python`](http://github.com/unidata/netcdf4-python), but it can be installed using the package name found below.
 
 ```bash
 pip install netcdf4
