@@ -28,4 +28,4 @@ author:              'Alexander Crosby'
 #feed:
 #  path: rss-feed.xml
 
-excerpt_separator: "<!-- more -->"
+#excerpt_separator: "<!-- more -->"
