@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing NetCDF Python Packages"
-categories: netcdf python
+categories: netcdf python pip conda xarray
 ---
 
 I am always trying to remember how I have installed netCDF4 and related libraries for Python, and what I need to do differently for Windows systems vs. the Linux systems I usually use.
@@ -35,7 +35,7 @@ cd ..
 
 ### netcdf4-python
 
-~~I typically try to use `pip` to install Python libraries if I can.~~ Use `pip` if you need to, but I am using conda and conda-forge as much as possible now, in fact by using conda, the above compilation steps are usually not necessary as far as I know. See below. 
+~~I typically try to use `pip` to install Python libraries if I can.~~ Use `pip` if you need to, but I am using conda and conda-forge as much as possible now, in fact by using conda, the above compilation steps are usually not necessary as far as I know. See below.
 
 The basic NetCDF module for Python is called [`netcdf4-python`](http://github.com/unidata/netcdf4-python), but it can be installed using the package name found below.
 
