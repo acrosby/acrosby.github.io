@@ -42,7 +42,7 @@ TACC *does* provide base Docker images that contain the appropriate dependencies
 And the Docker images available on DockerHub are here: [https://hub.docker.com/u/tacc](https://hub.docker.com/u/tacc)
 
 Using one of these in a Dockerfile (designed to run on Stampede2 with MPI) is as simple as
-markdown
+
 ```dockerfile
 FROM tacc/tacc-ubuntu18-mvapich2.3-psm2:0.0.2
 ...
