@@ -37,12 +37,12 @@ docker run --rm -ti -e SINGULARITY_NOHTTPS=1 \
 
 Unfortunately, Lonestar5 is using a custom Cray implementation of MPI which is not really compatible with any implementation we have access to already--so I can't just upload any of my existing images to LS5.
 
-TACC *does* provide base Docker images that contain the appropriate dependencies including MPI for their other HPC systems, however. Information about these can be found here: https://github.com/TACC/tacc-containers
+TACC *does* provide base Docker images that contain the appropriate dependencies including MPI for their other HPC systems, however. Information about these can be found here: [https://github.com/TACC/tacc-containers](https://github.com/TACC/tacc-containers)
 
-And the Docker images available on DockerHub are here: https://hub.docker.com/u/tacc
+And the Docker images available on DockerHub are here: [https://hub.docker.com/u/tacc](https://hub.docker.com/u/tacc)
 
 Using one of these in a Dockerfile (designed to run on Stampede2 with MPI) is as simple as
-
+markdown
 ```dockerfile
 FROM tacc/tacc-ubuntu18-mvapich2.3-psm2:0.0.2
 ...
@@ -51,9 +51,9 @@ at the start of a Dockerfile rather than a base Ubuntu Linux image. There are ba
 
 ## More Containers at TACC Documentation (from their training)
 
-* https://github.com/TACC/containers_at_tacc
-* https://containers-at-tacc.readthedocs.io/en/latest/
+* [https://github.com/TACC/containers_at_tacc](https://github.com/TACC/containers_at_tacc)
+* [https://containers-at-tacc.readthedocs.io/en/latest/](https://containers-at-tacc.readthedocs.io/en/latest/)
 
 The MPI and GPU sections specifically:
 
-https://containers-at-tacc.readthedocs.io/en/latest/singularity/03.mpi_and_gpus.html
+[https://containers-at-tacc.readthedocs.io/en/latest/singularity/03.mpi_and_gpus.html](https://containers-at-tacc.readthedocs.io/en/latest/singularity/03.mpi_and_gpus.html)
