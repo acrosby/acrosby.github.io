@@ -1,4 +1,9 @@
-# Running WRF Singularity Container on TACC Systems
+---
+layout: post
+title:  "Running WRF Singularity Container on TACC Systems"
+categories: ubuntu, singularity, docker, containers, HPC, WRF
+tags: ubuntu, singularity, docker, containers, HPC, WRF, TACC
+---
 
 
 So prior the the recent TACC training on containers I was trying to get our WRF Docker images to run up on the TACC HPC infrastructure using Singularity.
