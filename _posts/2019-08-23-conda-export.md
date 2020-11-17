@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Reproducing Conda Environments"
-categories: python conda
+categories: python
+tags: python, linux, anaconda, conda
 ---
 
 This short summary is based on the Anaconda blog post here https://www.anaconda.com/moving-conda-environments/. The original blog post is a great high-level summary for the various methods in conda for reproducing environments.

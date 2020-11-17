@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Shortcut to Website in Ubuntu 18.04 Dock"
-categories: ubuntu
+categories: ubuntu, linux
+tags: ubuntu, linux, dock, web, shortcut
 ---
 
 Create and populate the following file to add a dock shortcut to a website in Ubuntu using Ars Technica as an example. This will also enable the shortcut in the Gnome Shell search.
