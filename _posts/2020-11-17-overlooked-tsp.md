@@ -9,7 +9,7 @@ Sometimes sophisticated job queue and cluster systems are overkill on office or 
 
 Use task-spooler to queue commands on Linux and control the number of simultaneous jobs for an easy way to parallelize a list of batch jobs! This tool is a great complement to some other command line workhorses like `at` and `batch`.
 
-Task-spooler is not usually installed by default on Linux systems. It can be built by scratch after getting the source from https://vicerveza.homeunix.net/~viric/soft/ts/ or on Ubuntu (maybe other Debian based OS's) you can use apt:
+Task-spooler is not usually installed by default on Linux systems. It can be built by scratch after getting the source from [https://vicerveza.homeunix.net/~viric/soft/ts/](https://vicerveza.homeunix.net/~viric/soft/ts/) or on Ubuntu (maybe other Debian based OS's) you can use apt:
 
 ```bash
 sudo apt-get install task-spooler
