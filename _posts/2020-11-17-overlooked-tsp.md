@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Overlooked Tools: task-spooler"
-categories: ubuntu, linux, overlooked
-tags: ubuntu, linux, ts, tsp, command, queue
+categories: ubuntu linux overlooked
+tags: ubuntu linux ts tsp command queue
 ---
 
 Sometimes sophisticated job queue and cluster systems are overkill on office or individual PCs, especially for long lists of batch processing jobs that use comparatively few resources.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Reproducing Conda Environments"
 categories: python
-tags: python, linux, anaconda, conda
+tags: python linux anaconda conda env environment source package reproducible
 ---
 
 This short summary is based on the Anaconda blog post here https://www.anaconda.com/moving-conda-environments/. The original blog post is a great high-level summary for the various methods in conda for reproducing environments.

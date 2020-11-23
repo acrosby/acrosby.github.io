@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Singularity Container System for HPC"
-categories: ubuntu, singularity, docker, containers, HPC, WRF
-tags: ubuntu, singularity, docker, containers, HPC, WRF
+categories: singularity containers HPC
+tags: ubuntu singularity docker containers HPC WRF
 ---
 
 At work I had a task to port the WRFv4 atmospheric model that we currently run in the office, from a Docker container, up to the Lonestar5 (LS5) supercomputer at the Texas Advanced Computing Center (TACC). My first impulse was to simply replicate the Dockerfile steps that we use in a simple bash script to natively build the required WRF executables.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Using the Blockchain for Open-access Journals?"
 categories: blockchain science journals
+tags: blockchain openaccess openscience science review
 ---
 
 One thing that excites me about the current buzz around blockchain technology is its use for open science. I can't speak to the feasibility, but it seems to me that a distributed ledger could be an ideal place to publish and provide open-access to scientific research papers and articles.

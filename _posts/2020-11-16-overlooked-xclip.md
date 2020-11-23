@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Overlooked Tools: xclip"
-categories: ubuntu, linux, overlooked
-tags: ubuntu, linux, xclip, command, clipboard
+categories: ubuntu linux overlooked
+tags: ubuntu linux xclip command clipboard
 ---
 
 If you have ever had a need to move the output of a Linux console command to your clipboard, `xclip` is the solution!

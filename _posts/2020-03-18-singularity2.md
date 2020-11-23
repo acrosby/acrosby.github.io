@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Running WRF Singularity Container on TACC Systems"
-categories: ubuntu, singularity, docker, containers, HPC, WRF
-tags: ubuntu, singularity, docker, containers, HPC, WRF, TACC
+categories: singularity containers HPC
+tags: ubuntu singularity docker containers HPC WRF TACC
 ---
 
 

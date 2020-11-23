@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Autumn Leaves Are Free Money"
-categories: garden
-tags: autumn, fall, garden, weather
+categories: garden diy
+tags: autumn fall garden weather diy
 ---
 
 > “Leaves build soil, conserve water and best of all, control weeds. By using leaves as your compost and mulch you are restoring nutrients to the soil that leaves used in order to grow...They’re like a bank account that never runs dry.”
