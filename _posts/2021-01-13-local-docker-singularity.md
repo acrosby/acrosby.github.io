@@ -10,5 +10,6 @@ One of the powerful features of Singularity is the ability to create Singularity
 To convert a local image without fetching from a remote repository you can use `docker-daemon` in the protocol as found here.
 
 ```bash
-docker run --rm -ti quay.io/singularity/singularity build my-test-image-output.sif docker-daemon://mytestimage:tag
+docker run --rm -ti quay.io/singularity/singularity \
+    build my-test-image-output.sif docker-daemon://mytestimage:tag
 ```
