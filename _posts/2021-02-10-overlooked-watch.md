@@ -5,7 +5,7 @@ categories: ubuntu linux overlooked
 tags: ubuntu linux watch command gnu bash
 ---
 
-There many GNU/Linux command line tools that provide continuously updated statistics or information like `iotop`, `nload`, and `top`. However, it is often necessary to want to see the output of another simple command or complex chain of tools, updated in real-time.
+There many GNU/Linux command line tools that provide continuously updated statistics or information like `iotop`, `nload`, and `top`. However, it is often necessary to see the output of another simple command or complex chain of tools, updated in real-time.
 
 `watch` is a Linux command that does just that, and by doing so, is incredibly useful for continuously monitoring the output of any Linux terminal command. Usage of the `watch` command is incredibly simple, as the following example monitoring the currently running `tsp` task in the task-spooler queue demonstrates.
 
